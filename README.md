@@ -14,6 +14,8 @@ The game currently has at least somewhat functional: (meaning it works, but not 
 
 -Camera controller
 
+-Animator
+
 -Player ability to:
 
   -Move with WASD
@@ -21,8 +23,6 @@ The game currently has at least somewhat functional: (meaning it works, but not 
   -Jump with space
   
   -Crouch with c
-  
--Animator
 
 
 The game currently has nonfunctional:
